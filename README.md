@@ -24,7 +24,7 @@ Intellix is a cutting-edge AI-powered note-taking web application that combines 
 ## Demo
 
 You can link a live demo here:
-[Live Demo](#) *(note-app-ed209.web.app)*
+Check out my live app here: [Intellix Live](https://note-app-ed209.web.app/)
 
 ---
 
